@@ -7,9 +7,9 @@
 }
 
 h1 {
-  padding: 0 5%;
-  font-size: calc(20px + 4vh);
-  line-height: calc(20px + 6vh);
+  padding: 0 10%;
+  font-size: calc(10px + 5vw);
+  line-height: calc(10px + 7vw);
   /*   text-shadow: 0 0 5px #f562ff, 0 0 15px #f562ff, 0 0 25px #f562ff,
     0 0 20px #f562ff, 0 0 30px #890092, 0 0 80px #890092, 0 0 80px #890092;
   color: #fccaff; */
