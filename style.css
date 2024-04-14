@@ -1,5 +1,11 @@
 @import url("https://fonts.googleapis.com/css?family=Sacramento&display=swap");
 
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
 h1 {
   font-size: calc(20px + 4vh);
   line-height: calc(20px + 6vh);
